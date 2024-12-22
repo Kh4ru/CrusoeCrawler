@@ -18,7 +18,7 @@ To get started with **Crusoe Crawler**, you need to install the required depende
    ```bash
 pip install requests beautifulsoup4
 ```
-Or using the [install.bat]()
+Or using the `auto_install.bat` from the [Releases](https://github.com/Kh4ru/CrusoeCrawler/releases)
 
 This crawler is an essential tool for enthusiasts looking for a straightforward way to discover and download 3DS games. It utilizes Python’s `requests` and `BeautifulSoup` libraries for web scraping and automates the tedious manual search process.
 ## Roms Source:
