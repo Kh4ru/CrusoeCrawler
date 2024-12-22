@@ -13,6 +13,13 @@
 - **Direct Download Links**: Opens a browser window to the download page for quick and secure ROM retrieval.
 - **Clean & Simple Interface**: Minimalistic design powered by Python’s Tkinter library for smooth user interaction.
 
+## Install depencices
+To get started with **Crusoe Crawler**, you need to install the required dependencies. These can be installed via `pip`.
+   ```bash
+pip install requests beautifulsoup4
+```
+Or using the [install.bat]()
+
 This crawler is an essential tool for enthusiasts looking for a straightforward way to discover and download 3DS games. It utilizes Python’s `requests` and `BeautifulSoup` libraries for web scraping and automates the tedious manual search process.
 ## Roms Source:
 
